@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Atttendance Management</string>
+
+    <string-array name="program_list">
+        <item>Undergraduate Programmes</item>
+        <item>Diploma Programmes</item>
+        <item>Certificate Programmes</item>
+        <item>Professional Programmes</item>
+        <item>Short Professional Programmes</item>
+        <item>Post Graduate Diploma</item>
+        <item>Masters Programmes</item>
+        <item>PhD programmes</item>
+    </string-array>
+</resources>
